@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "preinstall": "npm install --save react-native-image-resizer",
+    "postinstall": "npm install --save react-native-image-resizer",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alexis Mangin",
