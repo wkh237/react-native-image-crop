@@ -28,8 +28,6 @@
     "eslint-plugin-react-native": "^2.0.0"
   },
   "dependencies": {
-    "react": "~15.2.1",
-    "react-native": "^0.29.0",
     "react-native-image-resizer": "0.0.9"
   }
 }
