@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "npm install --save react-native-image-resizer && node ./postinstall.js",
+    "postinstall": "npm install --save react-native-image-resizer",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alexis Mangin",
@@ -26,8 +26,5 @@
     "eslint-plugin-jsx-a11y": "^2.1.0",
     "eslint-plugin-react": "^6.1.2",
     "eslint-plugin-react-native": "^2.0.0"
-  },
-  "dependencies": {
-    "react-native-image-resizer": "0.0.9"
   }
 }
